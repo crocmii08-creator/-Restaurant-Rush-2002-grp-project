@@ -1,8 +1,8 @@
 # Design Notes (final, Stage 3)
 
 What changed in each stage: [CHANGES-stage1-to-2.md](CHANGES-stage1-to-2.md),
-[CHANGES-stage2-to-3.md](CHANGES-stage2-to-3.md). Full class list for the class diagram:
-[CLASS-DIAGRAM.md](CLASS-DIAGRAM.md).
+[CHANGES-stage2-to-3.md](CHANGES-stage2-to-3.md). The three stage-specific diagrams are in
+[ClassDiagram/](ClassDiagram/).
 
 ## Packages and layers
 

@@ -40,8 +40,6 @@ use the same layout, so a class added in Stage 2 or 3 fills a space that was emp
 | 2 | [`stage-2`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-2) | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
 | 3 (final) | [`stage-3`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-3) | [PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
 
-A text list of every class, attribute and operation is in [CLASS-DIAGRAM.md](CLASS-DIAGRAM.md).
-
 ## Sequence diagram
 
 One complete Stage 3 scenario, drawn in draw.io, matching the code at tag `stage-3`. A VIP customer
@@ -217,7 +215,7 @@ https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/s
 | `test/restaurant/StageThreeChecks.java` | Stage 3 automated checks |
 | `src/restaurant/domain/ServiceAdvisor.java` | **Extra feature** (`--hints`, off by default): when each waiting customer will leave, and the most urgent customer's next step |
 | `runs/stage3-victory.txt` / `.log`, `runs/stage3-defeat.txt` / `.log` | Reproducible Stage 3 victory and defeat runs (same seed, one different choice) |
-| `CHANGES-stage2-to-3.md`, `CLASS-DIAGRAM.md` | Change notes; full class list for the class diagram |
+| `CHANGES-stage2-to-3.md` | Change notes for this transition |
 
 **Existing files changed**
 

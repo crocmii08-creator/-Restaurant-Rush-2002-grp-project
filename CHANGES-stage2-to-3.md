@@ -19,7 +19,7 @@ https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-2...stage-3
 | `test/restaurant/StageThreeChecks.java` | Stage 3 automated checks (see TESTING.md). |
 | `src/restaurant/domain/ServiceAdvisor.java` | **Extra feature** (`--hints`): turns until each waiting customer leaves, the most urgent customer, and their next step. Only reads the game state. |
 | `runs/stage3-victory.txt` / `.log`, `runs/stage3-defeat.txt` / `.log` | Reproducible Stage 3 runs (same seed, one different choice). |
-| `CHANGES-stage2-to-3.md`, `CLASS-DIAGRAM.md` | This file; the final class list for the class diagram. |
+| `CHANGES-stage2-to-3.md` | Change notes for this transition. |
 
 ## Existing files changed
 
