@@ -4,7 +4,7 @@ Stage 3 adds the Host, ComboMeal and Happy Hour. The six turn steps, the custome
 Stage 1 and 2 rules are unchanged. Earlier stages stay playable with `--stage 1` and `--stage 2`.
 
 Compare link (after the tags are pushed):
-(https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-2...stage-3)
+https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-2...stage-3
 
 ## New files
 
