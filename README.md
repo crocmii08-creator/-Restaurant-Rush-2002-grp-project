@@ -241,29 +241,30 @@ https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/s
 
 ## Video timestamps
 
-The ranges below are arranged chronologically from 0:00 using the planned times in the video plan.
-Confirm them against the final edit and adjust if the actual timings differ.
+Video: [SC2002_Demo_Video.mp4](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/main/SC2002_Demo_Video.mp4)
 
-| Time | Presenter | Segment | 
-|------|-----------|---------|
-| 0:00 | All/Cai Ying | Introduction and game overview
-| 1:50 | Cai Ying | The game launching from the submitted project | 
-| 2:30 | Cai Ying | A dish going READY → SERVED → payment | 
-| 3:15 | Chelyn | Meaningful manager choices, including a decision where staff are constrained | 
-| 4:10 | Chelyn | A VIP or Critic behaviour | 
-| 4:15 | Chelyn | Stage 3 features - including hints and warnings |
-| 5:32 | Ziqi | Stage comparisons | 
-| 7:22 | Ziqi | Class Diagrams |
-| 9:53 | Jingyi | Sequence diagrams , One victory and one defeat | 
-| 12:25 | All | Individual contributions and key learning |
+Start time of each part of the submitted video. "Brief item" refers to the numbered segments in Section 6.2 of the assignment brief.
+
+| Time | Presenter | Content | Brief item |
+|------|-----------|---------|------------|
+| 0:00 | All / Cai Ying | Introduction and game overview | – |
+| 1:50 | Cai Ying | The game launching from the submitted project | 1 |
+| 2:30 | Cai Ying | A dish going READY → SERVED → payment | 3 |
+| 3:15 | Chelyn | Meaningful manager choices, including a decision where staff are constrained | 2 |
+| 4:10 | Chelyn | A VIP or Critic behaviour | 4 |
+| 4:15 | Chelyn | Stage 3 features (Host, ComboMeal, Happy Hour) and the `--hints` extra feature | 5 |
+| 5:32 | Ziqi | Stage tag comparisons | 7 |
+| 7:22 | Ziqi | Class diagrams (Stages 1–3) | 7 |
+| 9:53 | Jingyi | One victory and one defeat; sequence diagram | 6, 7 |
+| 12:25 | All | Individual contributions and key learning | – |
 
 ## AI use history
 
-AI conversation histories are linked below when their files are available in this repository.
+Each member's full AI conversations (prompts and replies in order) and GAI declaration are on their own branch.
 
-| Member | Branch | Chats |
-|--------|--------|-------|
-| Jingyi |  |  |
-| Caiying | [`caiying-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/caiying-ai-history/ai-history/stage-3) | [Stage 3, chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-01.md): program structure and design guidance · [Stage 3, chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-02.md): final requirement check, code review and fixes · [GAI declaration](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/Declaration%20on%20Use%20of%20GAI%20Assistance_261114_121133.pdf) |
-| Ziqi |  |  |
-| Chelyn | [`chelyn-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/chelyn-ai-history) | Report guidance: [chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/report/chat-01.md), Concept understanding: [chat-02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/report/chat-02.md), [GAI Declaration](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/Declaration%20on%20Use%20of%20GAI%20Assistance.pdf) | 
+| Member | Branch | Chats | GAI declaration |
+|--------|--------|-------|-----------------|
+| Chelyn | [`chelyn-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/chelyn-ai-history/ai-history) | Report guidance: [chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/report/chat-01.md) · Concept understanding: [chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/report/chat-02.md) | [PDF](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/chelyn-ai-history/ai-history/Declaration%20on%20Use%20of%20GAI%20Assistance.pdf) |
+| Cai Ying | [`caiying-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/caiying-ai-history/ai-history/stage-3) | Program structure and design guidance: [chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-01.md) · Final requirement check, code review and fixes: [chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-02.md) | [PDF](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/CY_Declaration%20on%20Use%20of%20GAI%20Assistance.pdf) |
+| Jingyi | [`jingyi-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/jingyi-ai-history/ai-history/stage-3) | Sequence diagram (requirements, repo, notation): [chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/jingyi-ai-history/ai-history/stage-3/chat-01.md) · Adding the "can now" step: [chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/jingyi-ai-history/ai-history/stage-3/chat-02.md) · Updating the diagram to match the code: [chat 03](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/jingyi-ai-history/ai-history/stage-3/chat-03.md) | |
+| Ziqi | [`ziqi-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/ziqi-ai-history/ai-history/stage-3) | Class diagrams for Stages 1–3, the `--hints` update, walkthrough and fixes: [chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/ziqi-ai-history/ai-history/stage-3/chat-01.md) | [PDF](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/ziqi-ai-history/ai-history/stage-3/Declaration%20on%20Use%20of%20GAI%20Assistance.pdf) |
