@@ -1,3 +1,5 @@
+# Restaurant Rush (SC2002 Group Assignment)
+
 ## Repository
 
 https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project
