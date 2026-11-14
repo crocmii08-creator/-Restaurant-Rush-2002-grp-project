@@ -250,9 +250,10 @@ Confirm them against the final edit and adjust if the actual timings differ.
 | 3:15 | Chelyn | Meaningful manager choices, including a decision where staff are constrained | 
 | 4:10 | Chelyn | A VIP or Critic behaviour | 
 | 4:15 | Chelyn | Stage 3 features - including hints and warnings |
-| 5:32 | Ziqi | Stage comparisons, class diagrams | 
+| 5:32 | Ziqi | Stage comparisons | 
+| 7:22 | Ziqi | Class Diagrams |
 | 9:53 | Jingyi | Sequence diagrams , One victory and one defeat | 
-| 12:25 | All| Individual contibutions and key learning |
+| 12:25 | All | Individual contributions and key learning |
 
 ## AI use history
 
