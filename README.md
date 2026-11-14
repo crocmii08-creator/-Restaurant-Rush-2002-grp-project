@@ -1,5 +1,6 @@
 ## Repository
 
+- draft repo: https://github.com/chelyn2008/Restaurant-game-SC2002
 https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project
 
 ## Stage comparisons
