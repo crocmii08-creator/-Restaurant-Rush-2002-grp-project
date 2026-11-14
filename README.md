@@ -1,5 +1,3 @@
-<img width="2046" height="561" alt="image" src="https://github.com/user-attachments/assets/ef0728d1-25d6-456a-9678-3f6efae8a919" /># Restaurant Rush (SC2002 Group Assignment)
-
 ## Repository
 
 https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project
