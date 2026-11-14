@@ -241,7 +241,7 @@ https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/s
 
 Video: 
 - [SC2002_Demo_Video with caption](https://www.youtube.com/watch?v=tFEnmUe0A9I)
-- [SC2002_Demo_Video without caption](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/main/SC2002_Demo_Video.mp4)
+- [SC2002_Demo_Video without caption](https://youtu.be/BR-9QmFdG8I?si=N-e_uWAmjtmZdCTQ)
 
 Start time of each part of the submitted video. "Brief item" refers to the numbered segments in Section 6.2 of the assignment brief.
 
