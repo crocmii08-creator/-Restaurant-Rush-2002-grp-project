@@ -34,11 +34,11 @@ One UML class diagram per stage, drawn in draw.io. Each one matches the code at 
 use the same layout, so a class added in Stage 2 or 3 fills a space that was empty before
 (marked `NEW in Stage N`; added members are **bold** with `*`).
 
-| Stage | Tag | Diagram | draw.io source |
+| Stage | Diagram | draw.io source |
 |-------|-----|---------|----------------|
-| 1 | [`stage-1`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-1) | [PNG](ClassDiagram/class_stage1.png) · [SVG](ClassDiagram/class_stage1.svg) | [class_stage1.drawio](ClassDiagram/class_stage1.drawio) |
-| 2 | [`stage-2`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-2) | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
-| 3 (final) | [`stage-3`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-3) | [PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
+| 1 | [PNG](ClassDiagram/class_stage1.png) · [SVG](ClassDiagram/class_stage1.svg) | [class_stage1.drawio](ClassDiagram/class_stage1.drawio) |
+| 2 | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
+| 3 |[PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
 
 ## Sequence diagram
 
