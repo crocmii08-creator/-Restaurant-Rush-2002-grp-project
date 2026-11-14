@@ -35,10 +35,10 @@ use the same layout, so a class added in Stage 2 or 3 fills a space that was emp
 (marked `NEW in Stage N`; added members are **bold** with `*`).
 
 | Stage | Diagram | draw.io source |
-|-------|-----|---------|----------------|
+|-------|--------|----------------|
 | 1 | [PNG](ClassDiagram/class_stage1.png) · [SVG](ClassDiagram/class_stage1.svg) | [class_stage1.drawio](ClassDiagram/class_stage1.drawio) |
 | 2 | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
-| 3 |[PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
+| 3 | [PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
 
 ## Sequence diagram
 
