@@ -259,11 +259,11 @@ Confirm them against the final edit and adjust if the actual timings differ.
 
 ## AI use history
 
-Caiying's Stage 3 conversation files and GAI declaration are included on the
-[`caiying-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/caiying-ai-history) branch:
+AI conversation histories are linked below when their files are available in this repository.
 
-- [Chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-01.md)
-- [Chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-02.md)
-- [Declaration on Use of GAI Assistance](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/Declaration%20on%20Use%20of%20GAI%20Assistance_261114_121133.pdf)
-
-Other AI-history branches were not migrated.
+| Member | Branch | Chats |
+|--------|--------|-------|
+| Jingyi |  |  |
+| Caiying | [`caiying-ai-history`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/caiying-ai-history/ai-history/stage-3) | [Stage 3, chat 01](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-01.md): program structure and design guidance · [Stage 3, chat 02](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/chat-02.md): final requirement check, code review and fixes · [GAI declaration](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/blob/caiying-ai-history/ai-history/stage-3/Declaration%20on%20Use%20of%20GAI%20Assistance_261114_121133.pdf) |
+| Ziqi |  |  |
+| Chelyn |  |  |
