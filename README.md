@@ -2,23 +2,23 @@
 
 ## Repository
 
-https://github.com/chelyn2008/Restaurant-game-SC2002
+https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project
 
 ## Stage comparisons
 
-Each stage is a runnable commit marked with a git tag. The source code at each tag contains only
-that stage's features.
+The `main` branch is a clean project snapshot. Each stage tag points to the original runnable
+commit for that stage, and the tags can be compared in this repository.
 
 | Stage | Tag | Commit | Adds | Runnable on its own |
 |-------|-----|--------|------|---------------------|
-| 1 | `stage-1` | `373d83b` | Regular customers, menu, Waiter, Chef, Cashier, full turn sequence, Victory and Defeat | Yes; no VIP, Critic, Host, combo or Happy Hour classes |
-| 2 | `stage-2` | `30a5f0d` | VIP and Critic customers, configurable arrival schedule | Yes; no Host, combo or Happy Hour classes |
-| 3 | `stage-3` | `f0cba92` | Host, ComboMeal, Happy Hour (with PricingPolicy), `--stage` option, extra feature: leave warnings and hints (`--hints`) | Yes |
+| 1 | [`stage-1`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-1) | [`373d83b`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/commit/373d83b2cd9e58184fb2ae622fb5b75e59cdd8df) | Regular customers, menu, Waiter, Chef, Cashier, full turn sequence, Victory and Defeat | Yes; no VIP, Critic, Host, combo or Happy Hour classes |
+| 2 | [`stage-2`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-2) | [`30a5f0d`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/commit/30a5f0d35f66483f75f06954c63ded23d3447f9f) | VIP and Critic customers, configurable arrival schedule | Yes; no Host, combo or Happy Hour classes |
+| 3 | [`stage-3`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-3) | [`f0cba92`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/commit/f0cba927283f34e7b225b696432211785f21ca73) | Host, ComboMeal, Happy Hour (with PricingPolicy), `--stage` option, extra feature: leave warnings and hints (`--hints`) | Yes |
 
-Compare links:
+Compare links in this repository:
 
-- Stage 1 → 2: https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-1...stage-2
-- Stage 2 → 3: https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-2...stage-3
+- Stage 1 → 2: https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-1...stage-2
+- Stage 2 → 3: https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-2...stage-3
 
 Commits in each stage:
 
@@ -36,9 +36,9 @@ use the same layout, so a class added in Stage 2 or 3 fills a space that was emp
 
 | Stage | Tag | Diagram | draw.io source |
 |-------|-----|---------|----------------|
-| 1 | `stage-1` | [PNG](ClassDiagram/class_stage1.png) · [SVG](ClassDiagram/class_stage1.svg) | [class_stage1.drawio](ClassDiagram/class_stage1.drawio) |
-| 2 | `stage-2` | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
-| 3 (final) | `stage-3` | [PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
+| 1 | [`stage-1`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-1) | [PNG](ClassDiagram/class_stage1.png) · [SVG](ClassDiagram/class_stage1.svg) | [class_stage1.drawio](ClassDiagram/class_stage1.drawio) |
+| 2 | [`stage-2`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-2) | [PNG](ClassDiagram/class_stage2.png) · [SVG](ClassDiagram/class_stage2.svg) | [class_stage2.drawio](ClassDiagram/class_stage2.drawio) |
+| 3 (final) | [`stage-3`](https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/tree/stage-3) | [PNG](ClassDiagram/class_stage3.png) · [SVG](ClassDiagram/class_stage3.svg) | [class_stage3.drawio](ClassDiagram/class_stage3.drawio) |
 
 A text list of every class, attribute and operation is in [CLASS-DIAGRAM.md](CLASS-DIAGRAM.md).
 
@@ -170,7 +170,7 @@ including 13 new checks for this feature in `StageThreeChecks`. More detail:
 ## Stage 1 → 2
 
 Full details: [CHANGES-stage1-to-2.md](CHANGES-stage1-to-2.md). Compare:
-https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-1...stage-2
+https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-1...stage-2
 
 **New files**
 
@@ -202,7 +202,7 @@ https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-1...stage-2
 ## Stage 2 → 3
 
 Full details: [CHANGES-stage2-to-3.md](CHANGES-stage2-to-3.md). Compare:
-https://github.com/chelyn2008/Restaurant-game-SC2002/compare/stage-2...stage-3
+https://github.com/crocmii08-creator/-Restaurant-Rush-2002-grp-project/compare/stage-2...stage-3
 
 **New files**
 
@@ -259,12 +259,4 @@ Confirm them against the final edit and adjust if the actual timings differ.
 
 ## AI use history
 
-Each member's full AI conversations (prompts, replies and follow-ups, in order) are on their own
-branch in this repository under `ai-history/`; the links below point to the individual chats.
-
-| Member | Branch | Chats |
-|--------|--------|-------|
-| Jingyi | [`jingyi-ai-history`](https://github.com/chelyn2008/Restaurant-game-SC2002/tree/jingyi-ai-history/ai-history) | [Stage 3, chat 01](https://github.com/chelyn2008/Restaurant-game-SC2002/blob/jingyi-ai-history/ai-history/stage-3/chat-01.md): sequence diagram requirements and use case |
-| Caiying | [`caiying-ai-history`](https://github.com/chelyn2008/Restaurant-game-SC2002/tree/caiying-ai-history/ai-history) | [Stage 3, chat 01](https://github.com/chelyn2008/Restaurant-game-SC2002/blob/caiying-ai-history/ai-history/stage-3/chat-01.md): final requirement check, code review and fixes |
-| Ziqi | [`ziqi-ai-history`](https://github.com/chelyn2008/Restaurant-game-SC2002/tree/ziqi-ai-history/ai-history) | [Stage 3, chat 01](https://github.com/chelyn2008/Restaurant-game-SC2002/blob/ziqi-ai-history/ai-history/stage-3/chat-01.md): UML class diagrams (Stages 1–3), the --hints update, class diagram walkthrough and fixes |
-| Chelyn | [`chelyn-ai-history`](https://github.com/chelyn2008/Restaurant-game-SC2002/tree/chelyn-ai-history/ai-history) | [Report preparation, chat 01](https://github.com/chelyn2008/Restaurant-game-SC2002/blob/chelyn-ai-history/ai-history/report/chat-01.md): report requirements, structure, code overview and design discussion · [Code understanding, chat 02](https://github.com/chelyn2008/Restaurant-game-SC2002/blob/chelyn-ai-history/ai-history/report/chat-02.md): `GameUI` and `ConsoleUI` |
+AI-history branches and the `ai-history/stage-3` directory were not migrated to this repository.
